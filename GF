@@ -1,0 +1,864 @@
+<html xmlns=3D"http://www.w3.org/1999/xhtml" lang=3D"en" xml:lang=3D"en">
+  <head>
+    <!--[if !mso]><!-- -->
+    <link rel=3D"stylesheet" type=3D"text/css" href=3D"https://use.typekit.=
+net/eiu4mut.css">
+    <!--<![endif]-->
+   =20
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width">
+    <style>@media only screen{html{min-height:100%;background:#fefefe}}@med=
+ia only screen and (max-width:642px){table.body table.container .show-for-l=
+arge{display:none!important;width:0;mso-hide:all;overflow:hidden}}@media on=
+ly screen and (max-width:642px){table.body img{width:auto;height:auto}table=
+=2Ebody center{min-width:0!important}tab=
+le.body .container{width:90%!importan=
+t}table.body .columns{height:auto!important;-moz-box-sizing:border-box;-web=
+kit-box-sizing:border-box;box-sizing:border-box;padding-left:42px!important=
+;padding-right:42px!important}table.body .collapse>tbody>tr>.columns{paddin=
+g-left:0!important;padding-right:0!important}th.small-12{display:inline-blo=
+ck!important;width:100%!important}.columns th.small-12{display:block!import=
+ant;width:100%!important}}@media only screen and (max-width:642px){.layout =
+table.body{background:#fefefe!important}.layout table.body .container{width=
+:95%!important}}@media only screen and (max-width:642px){.default-v2-layout=
+ th.large-12.first,.default-v2-layout th.large-12.last{padding:0 16px!impor=
+tant}}</style>
+  </head>
+  <body class=3D"layout default-v2-layout welcome" style=3D"-moz-box-sizing=
+:border-box;-ms-text-size-adjust:100%;-webkit-box-sizing:border-box;-webkit=
+-font-smoothing:antialiased;-webkit-text-size-adjust:100%;Margin:0;box-sizi=
+ng:border-box;color:#000;font-family:proxima-nova,Arial,Helvetica,sans-seri=
+f;font-size:14px;font-weight:400;line-height:1.5;margin:0;min-width:100%;pa=
+dding:0;text-align:left;width:100%!important">
+    <span class=3D"preheader" style=3D"color:#fefefe;display:none!important=
+;font-size:1px;line-height:1px;max-height:0;max-width:0;mso-hide:all!import=
+ant;opacity:0;overflow:hidden;visibility:hidden"></span>
+    <table class=3D"body" style=3D"Margin:0;background:#fafafa;border-colla=
+pse:collapse;border-spacing:0;color:#000;font-family:proxima-nova,Arial,Hel=
+vetica,sans-serif;font-size:14px;font-weight:400;height:100%;line-height:1.=
+5;margin:0;padding:0;text-align:left;vertical-align:top;width:100%">
+      <tr style=3D"padding:0;text-align:left;vertical-align:top">
+        <td class=3D"center" align=3D"center" valign=3D"top" style=3D"-moz-=
+hyphens:manual;-webkit-hyphens:manual;Margin:0;border-collapse:collapse!imp=
+ortant;color:#000;font-family:proxima-nova,Arial,Helvetica,sans-serif;font-=
+size:14px;font-weight:400;hyphens:manual;line-height:1.5;margin:0;padding:0=
+;text-align:left;vertical-align:top;word-wrap:break-word">
+          <table class=3D"spacer" style=3D"border-collapse:collapse;border-=
+spacing:0;padding:0;text-align:left;vertical-align:top;width:100%"><tbody><=
+tr style=3D"padding:0;text-align:left;vertical-align:top"><td height=3D"20"=
+ style=3D"-moz-hyphens:manual;-webkit-hyphens:manual;Margin:0;border-collap=
+se:collapse!important;color:#000;font-family:proxima-nova,Arial,Helvetica,s=
+ans-serif;font-size:20px;font-weight:400;hyphens:manual;line-height:20px;ma=
+rgin:0;mso-line-height-rule:exactly;padding:0;text-align:left;vertical-alig=
+n:top;word-wrap:break-word">&nbsp;</td></tr></tbody></table>=20
+          <table align=3D"center" class=3D"container" style=3D"Margin:0 aut=
+o;background:#fff;border-collapse:collapse;border-radius:3px;border-spacing=
+:0;box-shadow:0 2px 30px 0 rgba(0,0,0,.05);margin:0 auto;padding:0;text-ali=
+gn:inherit;vertical-align:top;width:600px"><tbody><tr style=3D"padding:0;te=
+xt-align:left;vertical-align:top"><td style=3D"-moz-hyphens:manual;-webkit-=
+hyphens:manual;Margin:0;border-collapse:collapse!important;color:#000;font-=
+family:proxima-nova,Arial,Helvetica,sans-serif;font-size:14px;font-weight:4=
+00;hyphens:manual;line-height:1.5;margin:0;padding:0;text-align:left;vertic=
+al-align:top;word-wrap:break-word">
+            <center style=3D"min-width:600px;width:100%">
+              <table align=3D"center" class=3D"spacer float-center" style=
+=3D"Margin:0 auto;border-collapse:collapse;border-spacing:0;float:none;marg=
+in:0 auto;padding:0;text-align:center;vertical-align:top;width:100%"><tbody=
+><tr style=3D"padding:0;text-align:left;vertical-align:top"><td height=3D"3=
+0" style=3D"-moz-hyphens:manual;-webkit-hyphens:manual;Margin:0;border-coll=
+apse:collapse!important;color:#000;font-family:proxima-nova,Arial,Helvetica=
+,sans-serif;font-size:30px;font-weight:400;hyphens:manual;line-height:30px;=
+margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;vertical-al=
+ign:top;word-wrap:break-word">&nbsp;</td></tr></tbody></table>=20
+              <header class=3D"header float-center" align=3D"center">
+                <table class=3D"spacer" style=3D"border-collapse:collapse;b=
+order-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%"><t=
+body><tr style=3D"padding:0;text-align:left;vertical-align:top"><td height=
+=3D"10" style=3D"-moz-hyphens:manual;-webkit-hyphens:manual;Margin:0;border=
+-collapse:collapse!important;color:#000;font-family:proxima-nova,Arial,Helv=
+etica,sans-serif;font-size:10px;font-weight:400;hyphens:manual;line-height:=
+10px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;vertic=
+al-align:top;word-wrap:break-word">&nbsp;</td></tr></tbody></table>=20
+             =20
+                <table class=3D"row collapse" style=3D"border-collapse:coll=
+apse;border-spacing:0;display:table;padding:0;position:relative;text-align:=
+left;vertical-align:top;width:100%"><tbody><tr style=3D"padding:0;text-alig=
+n:left;vertical-align:top">
+                  <th class=3D"small-12 large-12 columns first last" style=
+=3D"-moz-hyphens:manual;-webkit-hyphens:manual;Margin:0 auto;border-collaps=
+e:collapse!important;color:#000;font-family:proxima-nova,Arial,Helvetica,sa=
+ns-serif;font-size:14px;font-weight:400;hyphens:manual;line-height:1.5;marg=
+in:0 auto;padding:0;padding-bottom:0;padding-left:0;padding-right:0;text-al=
+ign:left;vertical-align:top;width:621px;word-wrap:break-word"><table style=
+=3D"border-collapse:collapse;border-spacing:0;padding:0;text-align:left;ver=
+tical-align:top;width:100%"><tbody><tr style=3D"padding:0;text-align:left;v=
+ertical-align:top"><th style=3D"-moz-hyphens:manual;-webkit-hyphens:manual;=
+Margin:0;border-collapse:collapse!important;color:#000;font-family:proxima-=
+nova,Arial,Helvetica,sans-serif;font-size:14px;font-weight:400;hyphens:manu=
+al;line-height:1.5;margin:0;padding:0;text-align:left;vertical-align:top;wo=
+rd-wrap:break-word">
+                    <center style=3D"min-width:474px;width:100%">
+                      <img class=3D"freedom-logo float-center" width=3D"180=
+" src=3D"https://marketing-image-production.s3.amazonaws.com/uploads/da1df7=
+151ec39eac5cccb35e079d34f9c2cc66708eefb7349af4256bf1a40a0801985d7acb55dcac6=
+107a110c02da376fee42d936167fc72f35abfeb18cfc532.png" alt=3D"Freedom" align=
+=3D"center" style=3D"-ms-interpolation-mode:bicubic;Margin:0 auto;clear:bot=
+h;display:block;float:none;margin:0 auto;max-width:200px;outline:0;text-ali=
+gn:center;text-decoration:none;width:200px">
+                    </center>
+                  </th>
+<th class=3D"expander" style=3D"-moz-hyphens:manual;-webkit-hyphens:manual;=
+Margin:0;border-collapse:collapse!important;color:#000;font-family:proxima-=
+nova,Arial,Helvetica,sans-serif;font-size:14px;font-weight:400;hyphens:manu=
+al;line-height:1.5;margin:0;padding:0!important;text-align:left;vertical-al=
+ign:top;visibility:hidden;width:0;word-wrap:break-word"></th></tr></tbody><=
+/table></th>
+                </tr></tbody></table>
+             =20
+                <table class=3D"spacer" style=3D"border-collapse:collapse;b=
+order-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%"><t=
+body><tr style=3D"padding:0;text-align:left;vertical-align:top"><td height=
+=3D"25" style=3D"-moz-hyphens:manual;-webkit-hyphens:manual;Margin:0;border=
+-collapse:collapse!important;color:#000;font-family:proxima-nova,Arial,Helv=
+etica,sans-serif;font-size:25px;font-weight:400;hyphens:manual;line-height:=
+25px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;vertic=
+al-align:top;word-wrap:break-word">&nbsp;</td></tr></tbody></table>=20
+              </header>
+
+             =20
+              <table align=3D"center" class=3D"row float-center" style=3D"M=
+argin:0 auto;border-collapse:collapse;border-spacing:0;display:table;float:=
+none;margin:0 auto;padding:0;position:relative;text-align:center;vertical-a=
+lign:top;width:100%"><tbody><tr style=3D"padding:0;text-align:left;vertical=
+-align:top">
+                <th class=3D"small-12 large-12 columns first last" style=3D=
+"-moz-hyphens:manual;-webkit-hyphens:manual;Margin:0 auto;border-collapse:c=
+ollapse!important;color:#000;font-family:proxima-nova,Arial,Helvetica,sans-=
+serif;font-size:14px;font-weight:400;hyphens:manual;line-height:1.5;margin:=
+0 auto;padding:0;padding-bottom:0;padding-left:42px;padding-right:42px;text=
+-align:left;vertical-align:top;width:558px;word-wrap:break-word"><table sty=
+le=3D"border-collapse:collapse;border-spacing:0;padding:0;text-align:left;v=
+ertical-align:top;width:100%"><tbody><tr style=3D"padding:0;text-align:left=
+;vertical-align:top"><th style=3D"-moz-hyphens:manual;-webkit-hyphens:manua=
+l;Margin:0;border-collapse:collapse!important;color:#000;font-family:proxim=
+a-nova,Arial,Helvetica,sans-serif;font-size:14px;font-weight:400;hyphens:ma=
+nual;line-height:1.5;margin:0;padding:0;text-align:left;vertical-align:top;=
+word-wrap:break-word">
+                  <table class=3D"spacer" style=3D"border-collapse:collapse=
+;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">=
+<tbody><tr style=3D"padding:0;text-align:left;vertical-align:top"><td heigh=
+t=3D"10" style=3D"-moz-hyphens:manual;-webkit-hyphens:manual;Margin:0;borde=
+r-collapse:collapse!important;color:#000;font-family:proxima-nova,Arial,Hel=
+vetica,sans-serif;font-size:10px;font-weight:400;hyphens:manual;line-height=
+:10px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;verti=
+cal-align:top;word-wrap:break-word">&nbsp;</td></tr></tbody></table>=20
+             =20
+                  <h1 class=3D"text-center" style=3D"Margin:0;Margin-bottom=
+:10px;color:#000;font-family:proxima-nova,Arial,Helvetica,sans-serif;font-s=
+ize:24px;font-weight:700;letter-spacing:.17px;line-height:1.3;margin:0;marg=
+in-bottom:10px;padding:0;text-align:center;word-wrap:normal"><img border=3D=
+"0" width=3D"270" class=3D"float-center header-image" src=3D"https://cdn.fr=
+eedom.to/marketing_email/welcome/v4/welcome.png" alt=3D"Welcome!" style=3D"=
+-ms-interpolation-mode:bicubic;Margin:0 auto;clear:both;display:block;float=
+:none;margin:0 auto;max-width:100%;outline:0;text-align:center;text-decorat=
+ion:none;width:270px"></h1>
+             =20
+                  <table class=3D"spacer" style=3D"border-collapse:collapse=
+;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">=
+<tbody><tr style=3D"padding:0;text-align:left;vertical-align:top"><td heigh=
+t=3D"25" style=3D"-moz-hyphens:manual;-webkit-hyphens:manual;Margin:0;borde=
+r-collapse:collapse!important;color:#000;font-family:proxima-nova,Arial,Hel=
+vetica,sans-serif;font-size:25px;font-weight:400;hyphens:manual;line-height=
+:25px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;verti=
+cal-align:top;word-wrap:break-word">&nbsp;</td></tr></tbody></table>=20
+             =20
+                  <p class=3D"text-center" style=3D"Margin:0;Margin-bottom:=
+17px;color:#000;font-family:proxima-nova,Arial,Helvetica,sans-serif;font-si=
+ze:16px;font-weight:400;line-height:1.5;margin:0;margin-bottom:17px;padding=
+:0;text-align:center">
+                    Thank you for signing up! We=E2=80=99re honored that yo=
+u=E2=80=99ve chosen Freedom to
+                    help you be more focused and productive. Here are some =
+tips to get you
+                    started.
+                  </p>
+             =20
+                  <table class=3D"spacer" style=3D"border-collapse:collapse=
+;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">=
+<tbody><tr style=3D"padding:0;text-align:left;vertical-align:top"><td heigh=
+t=3D"15" style=3D"-moz-hyphens:manual;-webkit-hyphens:manual;Margin:0;borde=
+r-collapse:collapse!important;color:#000;font-family:proxima-nova,Arial,Hel=
+vetica,sans-serif;font-size:15px;font-weight:400;hyphens:manual;line-height=
+:15px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;verti=
+cal-align:top;word-wrap:break-word">&nbsp;</td></tr></tbody></table>=20
+             =20
+                  <table class=3D"h-line" style=3D"border-collapse:collapse=
+;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">=
+<tr style=3D"padding:0;text-align:left;vertical-align:top"><th style=3D"-mo=
+z-hyphens:manual;-webkit-hyphens:manual;Margin:0;border-bottom:1px solid #e=
+aeaea;border-collapse:collapse!important;border-left:0;border-right:0;borde=
+r-top:0;clear:both;color:#000;font-family:proxima-nova,Arial,Helvetica,sans=
+-serif;font-size:0;font-weight:400;height:0;hyphens:manual;line-height:0;ma=
+rgin:0;padding:0;padding-bottom:0;padding-top:0;text-align:center;vertical-=
+align:top;width:600px;word-wrap:break-word">&nbsp;</th></tr></table>
+             =20
+                  <table class=3D"spacer" style=3D"border-collapse:collapse=
+;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">=
+<tbody><tr style=3D"padding:0;text-align:left;vertical-align:top"><td heigh=
+t=3D"30" style=3D"-moz-hyphens:manual;-webkit-hyphens:manual;Margin:0;borde=
+r-collapse:collapse!important;color:#000;font-family:proxima-nova,Arial,Hel=
+vetica,sans-serif;font-size:30px;font-weight:400;hyphens:manual;line-height=
+:30px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;verti=
+cal-align:top;word-wrap:break-word">&nbsp;</td></tr></tbody></table>=20
+             =20
+             =20
+                  <h2 style=3D"Margin:0 auto;Margin-bottom:10px;color:inher=
+it;font-family:proxima-nova,Arial,Helvetica,sans-serif;font-size:20px;font-=
+weight:700;line-height:28px;margin:0 auto;margin-bottom:10px;padding:0;text=
+-align:left;word-wrap:normal">
+                    =F0=9F=92=A1&nbsp;&nbsp;Getting Started
+                  </h2>
+             =20
+                  <table class=3D"spacer" style=3D"border-collapse:collapse=
+;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">=
+<tbody><tr style=3D"padding:0;text-align:left;vertical-align:top"><td heigh=
+t=3D"15" style=3D"-moz-hyphens:manual;-webkit-hyphens:manual;Margin:0;borde=
+r-collapse:collapse!important;color:#000;font-family:proxima-nova,Arial,Hel=
+vetica,sans-serif;font-size:15px;font-weight:400;hyphens:manual;line-height=
+:15px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;verti=
+cal-align:top;word-wrap:break-word">&nbsp;</td></tr></tbody></table>=20
+             =20
+                  <p style=3D"Margin:0;Margin-bottom:17px;color:#000;font-f=
+amily:proxima-nova,Arial,Helvetica,sans-serif;font-size:16px;font-weight:40=
+0;line-height:1.5;margin:0;margin-bottom:17px;padding:0;text-align:left">
+                    Need help setting Freedom up?
+                    <a href=3D"http://email.m.freedom.to/c/eJxFj8tqxDAMRb_G=
+3gwEWX4oWXjRUvoDXXRZ7ESeBCbx4Dgt_ftqVxDiXC7iII4mEDjvHIBeYs6BPetzux_X86Nebea=
+o6FUh_nCWrezLrbeLFb3pLSIgGgRCC8HBEKBkLI4ST86G4pSDfSiNean70KteI82GbR4TgQ_eMS=
+DzmMs4B7IpEXv9iGvvz1M0Ct9lvred6zDXXTgYMDBNFHSLJ2_li5dlO9gAgJh-01qr2HSP9cg1N=
+enuEj75Ief8Tzf55A_qLEoL" style=3D"color:#6ec05d;font-family:proxima-nova,Ar=
+ial,Helvetica,sans-serif;font-weight:400;line-height:1.3;padding:0;text-ali=
+gn:left;text-decoration:none">In this handy video</a>,
+                    John walks you through installation and your first Free=
+dom session.
+                  </p>
+             =20
+                  <table class=3D"spacer" style=3D"border-collapse:collapse=
+;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">=
+<tbody><tr style=3D"padding:0;text-align:left;vertical-align:top"><td heigh=
+t=3D"30" style=3D"-moz-hyphens:manual;-webkit-hyphens:manual;Margin:0;borde=
+r-collapse:collapse!important;color:#000;font-family:proxima-nova,Arial,Hel=
+vetica,sans-serif;font-size:30px;font-weight:400;hyphens:manual;line-height=
+:30px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;verti=
+cal-align:top;word-wrap:break-word">&nbsp;</td></tr></tbody></table>=20
+                 =20
+                  <table class=3D"h-line" style=3D"border-collapse:collapse=
+;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">=
+<tr style=3D"padding:0;text-align:left;vertical-align:top"><th style=3D"-mo=
+z-hyphens:manual;-webkit-hyphens:manual;Margin:0;border-bottom:1px solid #e=
+aeaea;border-collapse:collapse!important;border-left:0;border-right:0;borde=
+r-top:0;clear:both;color:#000;font-family:proxima-nova,Arial,Helvetica,sans=
+-serif;font-size:0;font-weight:400;height:0;hyphens:manual;line-height:0;ma=
+rgin:0;padding:0;padding-bottom:0;padding-top:0;text-align:center;vertical-=
+align:top;width:600px;word-wrap:break-word">&nbsp;</th></tr></table>
+                 =20
+                  <table class=3D"spacer" style=3D"border-collapse:collapse=
+;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">=
+<tbody><tr style=3D"padding:0;text-align:left;vertical-align:top"><td heigh=
+t=3D"30" style=3D"-moz-hyphens:manual;-webkit-hyphens:manual;Margin:0;borde=
+r-collapse:collapse!important;color:#000;font-family:proxima-nova,Arial,Hel=
+vetica,sans-serif;font-size:30px;font-weight:400;hyphens:manual;line-height=
+:30px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;verti=
+cal-align:top;word-wrap:break-word">&nbsp;</td></tr></tbody></table>=20
+                 =20
+                  <h2 style=3D"Margin:0 auto;Margin-bottom:10px;color:inher=
+it;font-family:proxima-nova,Arial,Helvetica,sans-serif;font-size:20px;font-=
+weight:700;line-height:28px;margin:0 auto;margin-bottom:10px;padding:0;text=
+-align:left;word-wrap:normal">
+                    =F0=9F=93=B2&nbsp;&nbsp;Install Freedom on Your Devices
+                  </h2>
+                 =20
+                  <table class=3D"spacer" style=3D"border-collapse:collapse=
+;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">=
+<tbody><tr style=3D"padding:0;text-align:left;vertical-align:top"><td heigh=
+t=3D"15" style=3D"-moz-hyphens:manual;-webkit-hyphens:manual;Margin:0;borde=
+r-collapse:collapse!important;color:#000;font-family:proxima-nova,Arial,Hel=
+vetica,sans-serif;font-size:15px;font-weight:400;hyphens:manual;line-height=
+:15px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;verti=
+cal-align:top;word-wrap:break-word">&nbsp;</td></tr></tbody></table>=20
+                 =20
+                  <p style=3D"Margin:0;Margin-bottom:17px;color:#000;font-f=
+amily:proxima-nova,Arial,Helvetica,sans-serif;font-size:16px;font-weight:40=
+0;line-height:1.5;margin:0;margin-bottom:17px;padding:0;text-align:left">
+                    Don=E2=80=99t forget to <a href=3D"http://email.m.freed=
+om.to/c/eJxFjstqxDAMRb_G3gwERX6ELLzoMMwPdNHl4Ic8E4jjkDiE_n3VUloQQvdeJB1yvR1=
+AG60BZHIhWDIk9-m5HOt7PbZITgxXgXhS4C7U26VtB4nhJieHgNgjDKjAaugs5IBZD55GrWzWQk=
+Pp8kaUaulalS8XTLaDiSYmr9FnpUaF0SczRhX6CErO7tXauvMbgXeu_20WqZ7LXH3i-H608th_-=
+IS6UfHTLNB-m9GX1TM-24x80hxrIbm5nab8oJSmhXoAYLZP_6qV-WRzdQnVb5w9WXz87vxNFz70=
+BU4KXlI" style=3D"color:#6ec05d;font-family:proxima-nova,Arial,Helvetica,sa=
+ns-serif;font-weight:400;line-height:1.3;padding:0;text-align:left;text-dec=
+oration:none">install Freedom</a>
+                    wherever you need it - Mac, Windows, iOS, Android, or C=
+hrome. There=E2=80=99s no
+                    limit to the number of devices you can use.
+                  </p>
+                 =20
+                  <p style=3D"Margin:0;Margin-bottom:17px;color:#000;font-f=
+amily:proxima-nova,Arial,Helvetica,sans-serif;font-size:16px;font-weight:40=
+0;line-height:1.5;margin:0;margin-bottom:17px;padding:0;text-align:left">
+                    Once your session starts, Freedom will run in sync acro=
+ss any devices you
+                    selected for it, and you can start a session from any o=
+f the apps or from
+                    the Freedom web Dashboard.
+                  </p>
+                 =20
+                  <table class=3D"spacer" style=3D"border-collapse:collapse=
+;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">=
+<tbody><tr style=3D"padding:0;text-align:left;vertical-align:top"><td heigh=
+t=3D"10" style=3D"-moz-hyphens:manual;-webkit-hyphens:manual;Margin:0;borde=
+r-collapse:collapse!important;color:#000;font-family:proxima-nova,Arial,Hel=
+vetica,sans-serif;font-size:10px;font-weight:400;hyphens:manual;line-height=
+:10px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;verti=
+cal-align:top;word-wrap:break-word">&nbsp;</td></tr></tbody></table>=20
+                 =20
+                  <center style=3D"min-width:474px;width:100%">
+                    <table class=3D"button radius tall bold float-center" s=
+tyle=3D"Margin:0;border-collapse:collapse;border-spacing:0;float:none;margi=
+n:0;padding:0;text-align:center;vertical-align:top;width:auto"><tbody><tr s=
+tyle=3D"padding:0;text-align:left;vertical-align:top"><td style=3D"-moz-hyp=
+hens:manual;-webkit-hyphens:manual;Margin:0;border-collapse:collapse!import=
+ant;border-radius:3px;color:#000;font-family:proxima-nova,Arial,Helvetica,s=
+ans-serif;font-size:14px;font-weight:400;hyphens:manual;line-height:1.5;mar=
+gin:0;padding:0;text-align:left;vertical-align:top;word-wrap:break-word"><t=
+able style=3D"border-collapse:collapse;border-spacing:0;padding:0;text-alig=
+n:left;vertical-align:top;width:100%"><tbody><tr style=3D"padding:0;text-al=
+ign:left;vertical-align:top"><td style=3D"-moz-hyphens:manual;-webkit-hyphe=
+ns:manual;Margin:0;background:#6ec05d;border:none;border-collapse:collapse!=
+important;border-radius:3px;color:#fefefe;font-family:proxima-nova,Arial,He=
+lvetica,sans-serif;font-size:14px;font-weight:400;hyphens:manual;line-heigh=
+t:1.5;margin:0;padding:0;text-align:left;vertical-align:top;word-wrap:break=
+-word"><a align=3D"center" href=3D"http://email.m.freedom.to/c/eJxFjstqxDAM=
+Rb_G3gwERX6ELLzoMMwPdNHl4Ic8E4jjkDiE_n3VUloQQvdeJB1yvR1AG60BZHIhWDIk9-m5HOt=
+7PbZITgxXgXhS4C7U26VtB4nhJieHgNgjDKjAaugs5IBZD55GrWzWQkPp8kaUaulalS8XTLaDiS=
+Ymr9FnpUaF0SczRhX6CErO7tXauvMbgXeu_20WqZ7LXH3i-H608th_-IS6UfHTLNB-m9GX1TM-2=
+4x80hxrIbm5nab8oJSmhXoAYLZP_6qV-WRzdQnVb5w9WXz87vxNFz70BU4KXlI" style=3D"bo=
+rder:0 solid #6ec05d;border-radius:5px;color:#fefefe;display:inline-block;f=
+ont-family:proxima-nova,Arial,Helvetica,sans-serif;font-size:16px;font-weig=
+ht:700;letter-spacing:1.08px;line-height:16px;padding:18px 20px;text-align:=
+center;text-decoration:none">DOWNLOAD & INSTALL FREEDOM</a></td></tr></tbod=
+y></table></td></tr></tbody></table>
+                  </center>
+                 =20
+                  <table class=3D"spacer" style=3D"border-collapse:collapse=
+;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">=
+<tbody><tr style=3D"padding:0;text-align:left;vertical-align:top"><td heigh=
+t=3D"30" style=3D"-moz-hyphens:manual;-webkit-hyphens:manual;Margin:0;borde=
+r-collapse:collapse!important;color:#000;font-family:proxima-nova,Arial,Hel=
+vetica,sans-serif;font-size:30px;font-weight:400;hyphens:manual;line-height=
+:30px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;verti=
+cal-align:top;word-wrap:break-word">&nbsp;</td></tr></tbody></table>=20
+                 =20
+                  <table class=3D"h-line" style=3D"border-collapse:collapse=
+;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">=
+<tr style=3D"padding:0;text-align:left;vertical-align:top"><th style=3D"-mo=
+z-hyphens:manual;-webkit-hyphens:manual;Margin:0;border-bottom:1px solid #e=
+aeaea;border-collapse:collapse!important;border-left:0;border-right:0;borde=
+r-top:0;clear:both;color:#000;font-family:proxima-nova,Arial,Helvetica,sans=
+-serif;font-size:0;font-weight:400;height:0;hyphens:manual;line-height:0;ma=
+rgin:0;padding:0;padding-bottom:0;padding-top:0;text-align:center;vertical-=
+align:top;width:600px;word-wrap:break-word">&nbsp;</th></tr></table>
+                 =20
+                  <table class=3D"spacer" style=3D"border-collapse:collapse=
+;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">=
+<tbody><tr style=3D"padding:0;text-align:left;vertical-align:top"><td heigh=
+t=3D"30" style=3D"-moz-hyphens:manual;-webkit-hyphens:manual;Margin:0;borde=
+r-collapse:collapse!important;color:#000;font-family:proxima-nova,Arial,Hel=
+vetica,sans-serif;font-size:30px;font-weight:400;hyphens:manual;line-height=
+:30px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;verti=
+cal-align:top;word-wrap:break-word">&nbsp;</td></tr></tbody></table>=20
+                 =20
+                  <h2 style=3D"Margin:0 auto;Margin-bottom:10px;color:inher=
+it;font-family:proxima-nova,Arial,Helvetica,sans-serif;font-size:20px;font-=
+weight:700;line-height:28px;margin:0 auto;margin-bottom:10px;padding:0;text=
+-align:left;word-wrap:normal">
+                    =F0=9F=92=BB&nbsp;&nbsp;Use your Dashboard for Ultimate=
+ Control
+                  </h2>
+                 =20
+                  <table class=3D"spacer" style=3D"border-collapse:collapse=
+;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">=
+<tbody><tr style=3D"padding:0;text-align:left;vertical-align:top"><td heigh=
+t=3D"15" style=3D"-moz-hyphens:manual;-webkit-hyphens:manual;Margin:0;borde=
+r-collapse:collapse!important;color:#000;font-family:proxima-nova,Arial,Hel=
+vetica,sans-serif;font-size:15px;font-weight:400;hyphens:manual;line-height=
+:15px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;verti=
+cal-align:top;word-wrap:break-word">&nbsp;</td></tr></tbody></table>=20
+                 =20
+                  <p style=3D"Margin:0;Margin-bottom:17px;color:#000;font-f=
+amily:proxima-nova,Arial,Helvetica,sans-serif;font-size:16px;font-weight:40=
+0;line-height:1.5;margin:0;margin-bottom:17px;padding:0;text-align:left">
+                    Your web <a href=3D"http://email.m.freedom.to/c/eJxFjsF=
+qwzAMhp_GvhSCLDv2cvCho_QFdtixOLHSGOI4JA6lb1-tjA2E0P-jX_rIK-vAtMYAyOj73lJLck=
+_35Vi_yrEN5IX7FIgP6rkLfT7V7SDhLjJ5BESF4FCDNdBYGHscjQvUGW1HIwzkZtyIYslNLXLy3=
+dCqD-MiqMhZ67AbOuxMMLyvbNBy9lOt685vBF65_tMsYtinvoQtCn09ar7tbz6hL5RDmgXaH3MI=
+eQ2MzzYjP2geSia5-Z3SeKMY00IKAJjtGaZSmE9WX5b33bTcWXz_Zv6mEx96AUSdXLw" style=
+=3D"color:#6ec05d;font-family:proxima-nova,Arial,Helvetica,sans-serif;font-=
+weight:400;line-height:1.3;padding:0;text-align:left;text-decoration:none">=
+Dashboard</a> is where
+                    you manage devices (phones, computers, tablets) and cus=
+tomize blocklists
+                    (sites and apps to block).
+                  </p>
+                 =20
+                  <p style=3D"Margin:0;Margin-bottom:17px;color:#000;font-f=
+amily:proxima-nova,Arial,Helvetica,sans-serif;font-size:16px;font-weight:40=
+0;line-height:1.5;margin:0;margin-bottom:17px;padding:0;text-align:left">
+                    Not sure what to block? Use
+                    <a href=3D"http://email.m.freedom.to/c/eJxFjr1qxTAMRp8m=
+Xi4Ex3HsZPDQUvoCHToW_8ixb2MrOA6lb19tBSGOJMR3wExKc7lIyTkLxjkFC7Ar7_U-P_BuHsy=
+gXwchfsBRH-aXR283DPqNZSO4EJPgWsxcST4qHp2IUlvY5KyiHCQvY2wAAcvYkSUza6ejXfUqti=
+XqQN_LprRXq1y89pNgh0m9nxfFDOKdyqeGBcYdcT9g9FhoRyZXxwaEAbrNB0GupJw6UYRvjPnEg=
+Gf19cBS92QtuILJ7s-ErJkLcvyCEHKFiXNOmr82IZIq6warQ9vottPwCQdlwj89KPwPDlBiPA" =
+style=3D"color:#6ec05d;font-family:proxima-nova,Arial,Helvetica,sans-serif;=
+font-weight:400;line-height:1.3;padding:0;text-align:left;text-decoration:n=
+one">Insight</a>,
+                    our free browser extension that shows how you spend you=
+r time online and
+                    where you might need some help.
+                  </p>
+                 =20
+                  <table class=3D"spacer" style=3D"border-collapse:collapse=
+;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">=
+<tbody><tr style=3D"padding:0;text-align:left;vertical-align:top"><td heigh=
+t=3D"10" style=3D"-moz-hyphens:manual;-webkit-hyphens:manual;Margin:0;borde=
+r-collapse:collapse!important;color:#000;font-family:proxima-nova,Arial,Hel=
+vetica,sans-serif;font-size:10px;font-weight:400;hyphens:manual;line-height=
+:10px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;verti=
+cal-align:top;word-wrap:break-word">&nbsp;</td></tr></tbody></table>=20
+                 =20
+                  <center style=3D"min-width:474px;width:100%">
+                    <table class=3D"button radius tall bold float-center" s=
+tyle=3D"Margin:0;border-collapse:collapse;border-spacing:0;float:none;margi=
+n:0;padding:0;text-align:center;vertical-align:top;width:auto"><tbody><tr s=
+tyle=3D"padding:0;text-align:left;vertical-align:top"><td style=3D"-moz-hyp=
+hens:manual;-webkit-hyphens:manual;Margin:0;border-collapse:collapse!import=
+ant;border-radius:3px;color:#000;font-family:proxima-nova,Arial,Helvetica,s=
+ans-serif;font-size:14px;font-weight:400;hyphens:manual;line-height:1.5;mar=
+gin:0;padding:0;text-align:left;vertical-align:top;word-wrap:break-word"><t=
+able style=3D"border-collapse:collapse;border-spacing:0;padding:0;text-alig=
+n:left;vertical-align:top;width:100%"><tbody><tr style=3D"padding:0;text-al=
+ign:left;vertical-align:top"><td style=3D"-moz-hyphens:manual;-webkit-hyphe=
+ns:manual;Margin:0;background:#6ec05d;border:none;border-collapse:collapse!=
+important;border-radius:3px;color:#fefefe;font-family:proxima-nova,Arial,He=
+lvetica,sans-serif;font-size:14px;font-weight:400;hyphens:manual;line-heigh=
+t:1.5;margin:0;padding:0;text-align:left;vertical-align:top;word-wrap:break=
+-word"><a align=3D"center" href=3D"http://email.m.freedom.to/c/eJxFjsFqwzAM=
+hp_GvhSCLDv2cvCho_QFdtixOLHSGOI4JA6lb1-tjA2E0P-jX_rIK-vAtMYAyOj73lJLck_35Vi=
+_yrEN5IX7FIgP6rkLfT7V7SDhLjJ5BESF4FCDNdBYGHscjQvUGW1HIwzkZtyIYslNLXLy3dCqD-=
+MiqMhZ67AbOuxMMLyvbNBy9lOt685vBF65_tMsYtinvoQtCn09ar7tbz6hL5RDmgXaH3MIeQ2Mz=
+zYjP2geSia5-Z3SeKMY00IKAJjtGaZSmE9WX5b33bTcWXz_Zv6mEx96AUSdXLw" style=3D"bo=
+rder:0 solid #6ec05d;border-radius:5px;color:#fefefe;display:inline-block;f=
+ont-family:proxima-nova,Arial,Helvetica,sans-serif;font-size:16px;font-weig=
+ht:700;letter-spacing:1.08px;line-height:16px;padding:18px 20px;text-align:=
+center;text-decoration:none">GO TO DASHBOARD</a></td></tr></tbody></table><=
+/td></tr></tbody></table>
+                  </center>
+                 =20
+                  <table class=3D"spacer" style=3D"border-collapse:collapse=
+;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">=
+<tbody><tr style=3D"padding:0;text-align:left;vertical-align:top"><td heigh=
+t=3D"30" style=3D"-moz-hyphens:manual;-webkit-hyphens:manual;Margin:0;borde=
+r-collapse:collapse!important;color:#000;font-family:proxima-nova,Arial,Hel=
+vetica,sans-serif;font-size:30px;font-weight:400;hyphens:manual;line-height=
+:30px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;verti=
+cal-align:top;word-wrap:break-word">&nbsp;</td></tr></tbody></table>=20
+                 =20
+                  <table class=3D"h-line" style=3D"border-collapse:collapse=
+;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">=
+<tr style=3D"padding:0;text-align:left;vertical-align:top"><th style=3D"-mo=
+z-hyphens:manual;-webkit-hyphens:manual;Margin:0;border-bottom:1px solid #e=
+aeaea;border-collapse:collapse!important;border-left:0;border-right:0;borde=
+r-top:0;clear:both;color:#000;font-family:proxima-nova,Arial,Helvetica,sans=
+-serif;font-size:0;font-weight:400;height:0;hyphens:manual;line-height:0;ma=
+rgin:0;padding:0;padding-bottom:0;padding-top:0;text-align:center;vertical-=
+align:top;width:600px;word-wrap:break-word">&nbsp;</th></tr></table>
+                 =20
+                  <table class=3D"spacer" style=3D"border-collapse:collapse=
+;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">=
+<tbody><tr style=3D"padding:0;text-align:left;vertical-align:top"><td heigh=
+t=3D"30" style=3D"-moz-hyphens:manual;-webkit-hyphens:manual;Margin:0;borde=
+r-collapse:collapse!important;color:#000;font-family:proxima-nova,Arial,Hel=
+vetica,sans-serif;font-size:30px;font-weight:400;hyphens:manual;line-height=
+:30px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;verti=
+cal-align:top;word-wrap:break-word">&nbsp;</td></tr></tbody></table>=20
+                 =20
+                  <h2 style=3D"Margin:0 auto;Margin-bottom:10px;color:inher=
+it;font-family:proxima-nova,Arial,Helvetica,sans-serif;font-size:20px;font-=
+weight:700;line-height:28px;margin:0 auto;margin-bottom:10px;padding:0;text=
+-align:left;word-wrap:normal">
+                    =E2=8F=B1&nbsp;&nbsp;Your Freedom Trial
+                  </h2>
+                 =20
+                  <table class=3D"spacer" style=3D"border-collapse:collapse=
+;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">=
+<tbody><tr style=3D"padding:0;text-align:left;vertical-align:top"><td heigh=
+t=3D"15" style=3D"-moz-hyphens:manual;-webkit-hyphens:manual;Margin:0;borde=
+r-collapse:collapse!important;color:#000;font-family:proxima-nova,Arial,Hel=
+vetica,sans-serif;font-size:15px;font-weight:400;hyphens:manual;line-height=
+:15px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;verti=
+cal-align:top;word-wrap:break-word">&nbsp;</td></tr></tbody></table>=20
+                 =20
+                  <a href=3D"http://email.m.freedom.to/c/eJxFjsFqwzAMhp_Gvh=
+SCLDv2cvCho_QFdtixOLHSGOI4JA6lb1-tjA2E0P-jX_rIK-vAtMYAyOj73lJLck_35Vi_yrEN5=
+IX7FIgP6rkLfT7V7SDhLjJ5BESF4FCDNdBYGHscjQvUGW1HIwzkZtyIYslNLXLy3dCqD-MiqMhZ=
+67AbOuxMMLyvbNBy9lOt685vBF65_tMsYtinvoQtCn09ar7tbz6hL5RDmgXaH3MIeQ2MzzYjP2g=
+eSia5-Z3SeKMY00IKAJjtGaZSmE9WX5b33bTcWXz_Zv6mEx96AUSdXLw" style=3D"color:#6=
+ec05d;font-family:proxima-nova,Arial,Helvetica,sans-serif;font-weight:400;l=
+ine-height:1.3;padding:0;text-align:left;text-decoration:none"><img border=
+=3D"0" class=3D"trial-progress" width=3D"516" src=3D"https://cdn.freedom.to=
+/marketing_email/welcome/v4/progress.png" alt=3D"Trial Progress" style=3D"-=
+ms-interpolation-mode:bicubic;border:none;clear:both;display:block;max-widt=
+h:100%;outline:0;text-decoration:none;width:100%"></a>
+                 =20
+                  <table class=3D"spacer" style=3D"border-collapse:collapse=
+;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">=
+<tbody><tr style=3D"padding:0;text-align:left;vertical-align:top"><td heigh=
+t=3D"20" style=3D"-moz-hyphens:manual;-webkit-hyphens:manual;Margin:0;borde=
+r-collapse:collapse!important;color:#000;font-family:proxima-nova,Arial,Hel=
+vetica,sans-serif;font-size:20px;font-weight:400;hyphens:manual;line-height=
+:20px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;verti=
+cal-align:top;word-wrap:break-word">&nbsp;</td></tr></tbody></table>=20
+                 =20
+                  <p style=3D"Margin:0;Margin-bottom:17px;color:#000;font-f=
+amily:proxima-nova,Arial,Helvetica,sans-serif;font-size:16px;font-weight:40=
+0;line-height:1.5;margin:0;margin-bottom:17px;padding:0;text-align:left">
+                    Use your seven Freedom Trial sessions to get a feel for=
+ Freedom. Start
+                    with a 30 minute session and do some heads-down work - =
+you=E2=80=99ll be amazed
+                    how much more focused and productive you are. After you=
+r 7 trial
+                    sessions, or if you=E2=80=99re ready to use Scheduling =
+or Locked Mode, you can
+                    <a href=3D"http://email.m.freedom.to/c/eJxFjsFqxCAQhp9G=
+LwthokbXg4cty75ADz0uGsckEGMwhqVv32kpLQzD_P_wz3zoem1ADUoB8OhC0DggP5ZpO_f3ctY=
+RHTNvTIgXBupM3i6tnsjMnS9OgBC9ACMkaAWdhhREUsajVVInxRTkLlXEWHLXCp-dlNGGpJNQME=
+Rlhz5qK5K2V-2vox0NX93c2n7QGyYeVP9pEuc-VR-RycfZ8vP4oWPyjtkvKxP62xx93j3Bk03AL=
+1zHkpFXd-CSnhjjsmEPAET26edSiI43V7ZQfKXdROLjN_M3XejQFxkwXNo" style=3D"color:=
+#6ec05d;font-family:proxima-nova,Arial,Helvetica,sans-serif;font-weight:400=
+;line-height:1.3;padding:0;text-align:left;text-decoration:none">upgrade to=
+ Premium</a> for unlimited
+                    access.
+                  </p>
+                 =20
+                  <table class=3D"spacer" style=3D"border-collapse:collapse=
+;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">=
+<tbody><tr style=3D"padding:0;text-align:left;vertical-align:top"><td heigh=
+t=3D"15" style=3D"-moz-hyphens:manual;-webkit-hyphens:manual;Margin:0;borde=
+r-collapse:collapse!important;color:#000;font-family:proxima-nova,Arial,Hel=
+vetica,sans-serif;font-size:15px;font-weight:400;hyphens:manual;line-height=
+:15px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;verti=
+cal-align:top;word-wrap:break-word">&nbsp;</td></tr></tbody></table>=20
+                 =20
+                  <table class=3D"h-line" style=3D"border-collapse:collapse=
+;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">=
+<tr style=3D"padding:0;text-align:left;vertical-align:top"><th style=3D"-mo=
+z-hyphens:manual;-webkit-hyphens:manual;Margin:0;border-bottom:1px solid #e=
+aeaea;border-collapse:collapse!important;border-left:0;border-right:0;borde=
+r-top:0;clear:both;color:#000;font-family:proxima-nova,Arial,Helvetica,sans=
+-serif;font-size:0;font-weight:400;height:0;hyphens:manual;line-height:0;ma=
+rgin:0;padding:0;padding-bottom:0;padding-top:0;text-align:center;vertical-=
+align:top;width:600px;word-wrap:break-word">&nbsp;</th></tr></table>
+                 =20
+                  <table class=3D"spacer" style=3D"border-collapse:collapse=
+;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">=
+<tbody><tr style=3D"padding:0;text-align:left;vertical-align:top"><td heigh=
+t=3D"30" style=3D"-moz-hyphens:manual;-webkit-hyphens:manual;Margin:0;borde=
+r-collapse:collapse!important;color:#000;font-family:proxima-nova,Arial,Hel=
+vetica,sans-serif;font-size:30px;font-weight:400;hyphens:manual;line-height=
+:30px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;verti=
+cal-align:top;word-wrap:break-word">&nbsp;</td></tr></tbody></table>=20
+                 =20
+                  <h2 style=3D"Margin:0 auto;Margin-bottom:10px;color:inher=
+it;font-family:proxima-nova,Arial,Helvetica,sans-serif;font-size:20px;font-=
+weight:700;line-height:28px;margin:0 auto;margin-bottom:10px;padding:0;text=
+-align:left;word-wrap:normal">
+                    =F0=9F=8F=A2&nbsp;&nbsp;Freedom for your Team
+                  </h2>
+                 =20
+                  <table class=3D"spacer" style=3D"border-collapse:collapse=
+;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">=
+<tbody><tr style=3D"padding:0;text-align:left;vertical-align:top"><td heigh=
+t=3D"15" style=3D"-moz-hyphens:manual;-webkit-hyphens:manual;Margin:0;borde=
+r-collapse:collapse!important;color:#000;font-family:proxima-nova,Arial,Hel=
+vetica,sans-serif;font-size:15px;font-weight:400;hyphens:manual;line-height=
+:15px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;verti=
+cal-align:top;word-wrap:break-word">&nbsp;</td></tr></tbody></table>=20
+                 =20
+                  <p style=3D"Margin:0;Margin-bottom:17px;color:#000;font-f=
+amily:proxima-nova,Arial,Helvetica,sans-serif;font-size:16px;font-weight:40=
+0;line-height:1.5;margin:0;margin-bottom:17px;padding:0;text-align:left">
+                    Freedom offers affordable and simple volume licensing f=
+or workplaces and
+                    schools. Email us at <a href=3D"mailto:sales@freedom.to=
+" style=3D"color:#6ec05d;font-family:proxima-nova,Arial,Helvetica,sans-seri=
+f;font-weight:400;line-height:1.3;padding:0;text-align:left;text-decoration=
+:none">sales@freedom.to</a>
+                    or visit our <a href=3D"http://email.m.freedom.to/c/eJx=
+FT01rwzAM_TX2pTQotmMvBx86Sv_ADjsWf8iNIYmD41D276eNsYIQek960hPaXhtQg1IAPFrvNQ=
+7I9_xYj-2jHDWgZeadCfFET5nJy6nVA5m58mwFCNELMEKCVtBpSF4kZRyOSuqkmIKlSxUxlqVrh=
+U9Wv3kcZAIIEGOQIyYzQu8G41IIbgh8tlNr205nmLhRvNQvcE6lnkNZNrdmpNHb0Zb7_uuVySsu=
+Ls9M6B8yOBqiV4gm-0-cSYW82h1zumOMecUeAMjnl5tKIa-82bL64ir1HgQ-_zT_1YkWfQMoa2M=
+w" style=3D"color:#6ec05d;font-family:proxima-nova,Arial,Helvetica,sans-ser=
+if;font-weight:400;line-height:1.3;padding:0;text-align:left;text-decoratio=
+n:none">volume licensing page</a>.
+                  </p>
+                 =20
+                  <table class=3D"spacer" style=3D"border-collapse:collapse=
+;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">=
+<tbody><tr style=3D"padding:0;text-align:left;vertical-align:top"><td heigh=
+t=3D"15" style=3D"-moz-hyphens:manual;-webkit-hyphens:manual;Margin:0;borde=
+r-collapse:collapse!important;color:#000;font-family:proxima-nova,Arial,Hel=
+vetica,sans-serif;font-size:15px;font-weight:400;hyphens:manual;line-height=
+:15px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;verti=
+cal-align:top;word-wrap:break-word">&nbsp;</td></tr></tbody></table>=20
+                 =20
+                  <table class=3D"h-line" style=3D"border-collapse:collapse=
+;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">=
+<tr style=3D"padding:0;text-align:left;vertical-align:top"><th style=3D"-mo=
+z-hyphens:manual;-webkit-hyphens:manual;Margin:0;border-bottom:1px solid #e=
+aeaea;border-collapse:collapse!important;border-left:0;border-right:0;borde=
+r-top:0;clear:both;color:#000;font-family:proxima-nova,Arial,Helvetica,sans=
+-serif;font-size:0;font-weight:400;height:0;hyphens:manual;line-height:0;ma=
+rgin:0;padding:0;padding-bottom:0;padding-top:0;text-align:center;vertical-=
+align:top;width:600px;word-wrap:break-word">&nbsp;</th></tr></table>
+                 =20
+                  <table class=3D"spacer" style=3D"border-collapse:collapse=
+;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">=
+<tbody><tr style=3D"padding:0;text-align:left;vertical-align:top"><td heigh=
+t=3D"30" style=3D"-moz-hyphens:manual;-webkit-hyphens:manual;Margin:0;borde=
+r-collapse:collapse!important;color:#000;font-family:proxima-nova,Arial,Hel=
+vetica,sans-serif;font-size:30px;font-weight:400;hyphens:manual;line-height=
+:30px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;verti=
+cal-align:top;word-wrap:break-word">&nbsp;</td></tr></tbody></table>=20
+                 =20
+                  <h2 style=3D"Margin:0 auto;Margin-bottom:10px;color:inher=
+it;font-family:proxima-nova,Arial,Helvetica,sans-serif;font-size:20px;font-=
+weight:700;line-height:28px;margin:0 auto;margin-bottom:10px;padding:0;text=
+-align:left;word-wrap:normal">
+                    =F0=9F=92=81&nbsp;&nbsp;We=E2=80=99re here to help
+                  </h2>
+                 =20
+                  <table class=3D"spacer" style=3D"border-collapse:collapse=
+;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">=
+<tbody><tr style=3D"padding:0;text-align:left;vertical-align:top"><td heigh=
+t=3D"15" style=3D"-moz-hyphens:manual;-webkit-hyphens:manual;Margin:0;borde=
+r-collapse:collapse!important;color:#000;font-family:proxima-nova,Arial,Hel=
+vetica,sans-serif;font-size:15px;font-weight:400;hyphens:manual;line-height=
+:15px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;verti=
+cal-align:top;word-wrap:break-word">&nbsp;</td></tr></tbody></table>=20
+                 =20
+                  <p style=3D"Margin:0;Margin-bottom:17px;color:#000;font-f=
+amily:proxima-nova,Arial,Helvetica,sans-serif;font-size:16px;font-weight:40=
+0;line-height:1.5;margin:0;margin-bottom:17px;padding:0;text-align:left">
+                    If you have any questions, or need assistance, our supp=
+ort team is
+                    available to help. You can email
+                    <a href=3D"mailto:support@freedom.to" target=3D"_blank"=
+ style=3D"color:#6ec05d;font-family:proxima-nova,Arial,Helvetica,sans-serif=
+;font-weight:400;line-height:1.3;padding:0;text-align:left;text-decoration:=
+none">support@freedom.to</a>
+                    anytime, or click on the green chat bubble on your Free=
+dom Dashboard for
+                    assistance.
+                  </p>
+                 =20
+                  <p style=3D"Margin:0;Margin-bottom:17px;color:#000;font-f=
+amily:proxima-nova,Arial,Helvetica,sans-serif;font-size:16px;font-weight:40=
+0;line-height:1.5;margin:0;margin-bottom:17px;padding:0;text-align:left">
+                    Thank you!<br>
+                    Your Friends at Freedom
+                  </p>
+             =20
+                               =20
+                  <table class=3D"spacer" style=3D"border-collapse:collapse=
+;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">=
+<tbody><tr style=3D"padding:0;text-align:left;vertical-align:top"><td heigh=
+t=3D"35" style=3D"-moz-hyphens:manual;-webkit-hyphens:manual;Margin:0;borde=
+r-collapse:collapse!important;color:#000;font-family:proxima-nova,Arial,Hel=
+vetica,sans-serif;font-size:35px;font-weight:400;hyphens:manual;line-height=
+:35px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;verti=
+cal-align:top;word-wrap:break-word">&nbsp;</td></tr></tbody></table>=20
+                </th>
+<th class=3D"expander" style=3D"-moz-hyphens:manual;-webkit-hyphens:manual;=
+Margin:0;border-collapse:collapse!important;color:#000;font-family:proxima-=
+nova,Arial,Helvetica,sans-serif;font-size:14px;font-weight:400;hyphens:manu=
+al;line-height:1.5;margin:0;padding:0!important;text-align:left;vertical-al=
+ign:top;visibility:hidden;width:0;word-wrap:break-word"></th></tr></tbody><=
+/table></th>
+              </tr></tbody></table>
+             =20
+            </center>
+          </td></tr></tbody></table>
+          <footer class=3D"footer">
+            <table class=3D"spacer" style=3D"border-collapse:collapse;borde=
+r-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%"><tbody=
+><tr style=3D"padding:0;text-align:left;vertical-align:top"><td height=3D"1=
+5" style=3D"-moz-hyphens:manual;-webkit-hyphens:manual;Margin:0;border-coll=
+apse:collapse!important;color:#000;font-family:proxima-nova,Arial,Helvetica=
+,sans-serif;font-size:15px;font-weight:400;hyphens:manual;line-height:15px;=
+margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;vertical-al=
+ign:top;word-wrap:break-word">&nbsp;</td></tr></tbody></table>=20
+         =20
+            <table class=3D"row collapse" style=3D"border-collapse:collapse=
+;border-spacing:0;padding:0;position:relative;text-align:left;vertical-alig=
+n:top;width:100%"><tbody><tr style=3D"padding:0;text-align:left;vertical-al=
+ign:top">
+              <th class=3D"small-12 large-12 columns first last" style=3D"-=
+moz-hyphens:manual;-webkit-hyphens:manual;Margin:0 auto;border-collapse:col=
+lapse!important;color:#656565;font-family:proxima-nova,Arial,Helvetica,sans=
+-serif;font-size:14px;font-weight:400;hyphens:manual;line-height:1.5;margin=
+:0 auto;padding:0;padding-bottom:0;padding-left:0;padding-right:0;text-alig=
+n:left;vertical-align:top;width:621px;word-wrap:break-word"><table style=3D=
+"border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertic=
+al-align:top;width:100%"><tbody><tr style=3D"padding:0;text-align:left;vert=
+ical-align:top"><th style=3D"-moz-hyphens:manual;-webkit-hyphens:manual;Mar=
+gin:0;border-collapse:collapse!important;color:#656565;font-family:proxima-=
+nova,Arial,Helvetica,sans-serif;font-size:14px;font-weight:400;hyphens:manu=
+al;line-height:1.5;margin:0;padding:0;text-align:left;vertical-align:top;wo=
+rd-wrap:break-word">
+                <center style=3D"min-width:474px;width:100%">
+                  To unsubscribe, <a href=3D"http://email.m.freedom.to/u/eJ=
+wNzEEOgyAQAMDXwKWJWRYW9MDBpj_oAxqR3cpBaVDT9Pf1MsfJMSXPxHov7-38POvZZo4q3BXil=
+9OlsuPtaCer8NAlIiAahIAWvIPOgyQUFyYenPXilIO1k8ac69odVS-RiHDoSWYx4oh6zIZCAEHn=
+sXfW6hZ3LvLinMvGBgCu4zcttV6PPqLC8Q89-i7v" align=3D"center" class=3D"float-c=
+enter" style=3D"color:#6ec05d;font-family:proxima-nova,Arial,Helvetica,sans=
+-serif;font-weight:400;line-height:1.3;padding:0;text-align:left;text-decor=
+ation:none">click here</a>
+                </center>
+              </th>
+<th class=3D"expander" style=3D"-moz-hyphens:manual;-webkit-hyphens:manual;=
+Margin:0;border-collapse:collapse!important;color:#656565;font-family:proxi=
+ma-nova,Arial,Helvetica,sans-serif;font-size:14px;font-weight:400;hyphens:m=
+anual;line-height:1.5;margin:0;padding:0!important;text-align:left;vertical=
+-align:top;visibility:hidden;width:0;word-wrap:break-word"></th></tr></tbod=
+y></table></th>
+            </tr></tbody></table>
+         =20
+            <table class=3D"spacer" style=3D"border-collapse:collapse;borde=
+r-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%"><tbody=
+><tr style=3D"padding:0;text-align:left;vertical-align:top"><td height=3D"3=
+0" style=3D"-moz-hyphens:manual;-webkit-hyphens:manual;Margin:0;border-coll=
+apse:collapse!important;color:#000;font-family:proxima-nova,Arial,Helvetica=
+,sans-serif;font-size:30px;font-weight:400;hyphens:manual;line-height:30px;=
+margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;vertical-al=
+ign:top;word-wrap:break-word">&nbsp;</td></tr></tbody></table>=20
+          </footer>
+        </td>
+      </tr>
+    </table>
+    <!-- prevent Gmail on iOS font size manipulation -->
+   <div style=3D"display:none;white-space:nowrap;font:15px courier;line-hei=
+ght:0"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </div>
+  <img width=3D"1px" height=3D"1px" alt=3D"" src=3D"http://email.m.freedom.=
+to/o/eJxFjsEKwjAQRL8muQhls90m9pCD4h948CjZZKMF20jaIv69uXkZZpjhMeKNdUADEYBOnt=
+nKIHqdHsv-vpa9RvHKnRXiR7ip6k-Hre6i3EVPHgHRIDjswRJ0FjJjJhdkpN5mUgRzl6tIKnO3F=
+f30eORByDnmcQxhiG0WYzIsARybMevqV5nyXVKaFjEA0Bjf8CylcfTmy8Il1NY9WrjJK5ZZ_u7Q=
+Pv4Abmg_jg"></body>
+</html>
+Received: from 127.0.0.1
+ by atlas-production.v2-mail-prod1-ir2.omega.yahoo.com pod-id atlas--production-ir2-767b977bc8-cddvl.ir2.yahoo.com with HTTP; Wed, 7 Dec 2022 23:06:41 +0000
+Return-Path: <bounce+80ddfe.bb6e5e-seif_eddine1000=yahoo.fr@m.freedom.to>
+X-Originating-Ip: [161.38.193.130]
+Received-SPF: pass (domain of m.freedom.to designates 161.38.193.130 as permitted sender)
+Authentication-Results: atlas-production.v2-mail-prod1-ir2.omega.yahoo.com;
+ dkim=pass header.i=@m.freedom.to header.s=krs;
+ dkim=pass header.i=@mailgun.org header.s=mg;
+ spf=pass smtp.mailfrom=m.freedom.to;
+ dmarc=pass(p=NONE,sp=NONE) header.from=freedom.to;
+X-Apparently-To: seif_eddine1000@yahoo.fr; Wed, 7 Dec 2022 23:06:41 +0000
+X-YMailAVSC: 0CWn1203bBv7.zN1rsHHD7uaKZ_xvdpdNjVhCbsYnlcvMNg
+ JTwpiI6ORIYHcXPHt0yz4CMCo5138pAHRG_juH.gKCjmkEBWL5zPRT6ty2OX
+ _Kg7RG6v45xVlPRXiVDBB57Smvy7sqrrrvKtWehuQETBWaM_ksBUwDjkR_Ji
+ .FfweqeN0UC.9_4Phf3v4tJe3sSBRJnsQ4Pv3VaEvQCDN1ZF1v6vH_hYCZ0Y
+ PPCnpU7pYrDlT.LA_KI2ru39kzsLENWQYS0lrLsKOVXRxijOefGs8HMHIx5N
+ KXAyjQPq45CB7MRdLMObDOVmNrrywJzu5yRDUpNHyLZa7Dh9gY0JIYZA7j5H
+ GwZYAf3DZrW01ZP0gnPJaIt_g7Mbp8ZBdnt75XdxnY4ohylanvlvDsb8d0iE
+ Xykc.eqkappn728Z0pZPjGerSQ_JHLlBZZnHvsE02z2JNKCLp9GLS9Vnorcp
+ RLQ60EOTuB2fKHGcDjIAF5TAygCXnJekDnWaqPG5HqOkvE4uOSnMBEijjZV5
+ J3.hM8WIbnkjxyJ5dwO8De6FpjJx1trYq3goND_N_VExxv1LfEV7DZ3.tIAc
+ HgrtEoIt9wVK2vsGiVR3VENpAF4CHfCZAVkdBLb.itW7O4.PYwLgYme_DTf4
+ c9EEhbBcwhovTCr2ze0CPs8Wd82JWSL8xescd0z2e6NhZNZkUyudaxptaS6B
+ ImxAV56EyNcc05DErGc_WdG.Ljf30k0bTqnu95fQM1FR3l3cEiMvUS898Lnw
+ ty9aYZ4yS1dULO05IzL_ni6VBbhLbKjHSsDXzlI0R740fcrKJfC6Wsoy9ikX
+ podzmmx0lZVxQZ1TcS.YwGmKyNGIgS_yeXckhbl_Ib3IbeMBTaiUD8jpueSa
+ lLtmve4PqmpK.cKjAWOSXB9GvvYKDlLmDPb_mQKZwEzIKk5fgbJIuxxYuAZQ
+ dVxv_jMtE.ls19jkZxUxmNckhlhCmU5w2WiXpFGgJWWo4LroNYHFr.AHHly0
+ a_YFOs.2iIAt2idXKgTS38bTx37iEs.HaSgqRQTDOTGIgs0rjjzvsJbi8i0a
+ pE_xSYyK4nwVq6NJR.qZP7l3ncyEeLUkLWOY72fUpJnBMeZ.1Nex8ConAvJJ
+ XwmD_P6LdUbQiD7DqP6an8HOZsDP9iJIul.vyEQlkjW26DTJ4FM3BvcNbyfZ
+ pBwAiHbAYUnyMOi0T5OyCJQ--
+X-YMailISG: FxnoXz4WLDuG2UQuOSP1f.1S0fFX3Vm7PmeORj4OKzlZtkjV
+ Npc1ANMP48T5vghO7CmytBjW.qUosJnNV1WpnBUH7y0cmON55jHw6Chcgw0q
+ rDK3Q29xbsHMBrFomVUEoSsUTpj4OGIk7osz4i1_O4ojsWzmaR8cvlMRG36u
+ CjDjpl5S7kzxXXeQMtd_xoPdOPQ_2w2Q0OWb7b5EuoZO2rghg7zY.0hOIpYd
+ 4TBI_r36xXc_qmar6oI6ETcTKhvPv9Cy.H2jNM._i7ySuYatYQN1K7XpIPqG
+ bUolu5MDzplxvPul716IcCozym.jhMkMOEE8Ge9P6sGulV.H6PCqzhvXDolA
+ K_qwt6skMXa5.MSkBm7bY.5b4XbCDo3jvG7lAXO9XNScaHOvLevt8jWVU5ID
+ 868cl0Yu7yXTDZkCFMOEnnMsnDhxc6b.q.9aMd6.DZtrLK3nilWjhZNMS5eA
+ R7ZkcxXJDwvcmZ0jiyFHQUMl4cuJrX9S2M0xrRZMQZEOIXkDU2iRttvXk2fz
+ BLR4obBqDWgqTiAs7fOXpBa5M6Q2wrp6uIteFOSSubZZp4u5H2OxVGsvuFfI
+ 1P_rhrePYwt4I6KBUmW.pMuRAOBm.5g.GGvPi3IONAeVbjbu5l6AbeZq97Id
+ Hycd8sH2phzSh_sGocCgjj2zrgGJW67Ha3uxQOPTbnL.6B1sNvpTj7GwePCt
+ FV206F.lC5vCjZojJcfFL.BeazbVkob25J77zGAwCteluK.K_2qeZ3oV72lT
+ fD1jqTOjf1MM6HZEbxppnfrWBkjfnOi2E34gF9QVb7KAgJUefGExAS.OwUK8
+ NYRzUjz9LoWU8gJXRBmQGS2h1nUbh.ipGe4EGcHXoaGcrUzqIStRWVWPwzBF
+ MWhBZTKc2LpkQTV71VUAReIrPzB8RfrCma_o3MhNotQar0zcS360jGAMxF.q
+ 5jZpRzL8wO1dx7XxNDkcUI1o1Tozkulo0SLYGmFI.XjaujU8rz40eqkLl7rA
+ t2jhNJtypkElI04G4w_Jq3R2L90UjJTImK7h7GN2YBaWRe77XvQr3A6ZD1jQ
+ sTwB9lCWD38er9Villv8WveIfnbliCw0VuHrThCkwAeaCNQEZ12I8j._Mov7
+ f1IYMZKqdv9_QLy7jLEFMN0.iSadafCCf_7rSVSSGM8VC9EbANFxfhXj6iOx
+ swZpDAoPuqj1UAJfZVr21_qT2bkKxw--
+Received: from 161.38.193.130 (EHLO m193-130.mailgun.net)
+ by 10.200.78.48 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Wed, 07 Dec 2022 23:06:41 +0000
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=m.freedom.to; q=dns/txt;
+ s=krs; t=1670454400; x=1670461600; h=Content-Transfer-Encoding:
+ Content-Type: Message-Id: To: To: From: From: Subject: Subject:
+ Mime-Version: Date: Sender: Sender: List-Unsubscribe;
+ bh=x7zYrTsuIJ4xgby3Qu0f+7UsO0KED/D3z/x5rdslaQI=; b=PBjUAwooZgG1NszFFNPqGsR35mLvmUq3/Ypdrw7CTFEPGSrLbwVGUQ1kP6sKV1j3PsTKEpHV
+ 2uTFDqx7NbCShztW+kH3GIX7g5QJFLdCAG3KapWxa6ABL8FfTmWb2+pssDa54Q71Kz1P6y/r
+ VxPBMHHo0gjL4FUSLsc3zlsyXTU=
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=mailgun.org; q=dns/txt; s=mg;
+ t=1670454400; x=1670461600; h=Content-Transfer-Encoding: Content-Type:
+ Message-Id: To: To: From: From: Subject: Subject: Mime-Version: Date:
+ Sender: Sender: List-Unsubscribe;
+ bh=x7zYrTsuIJ4xgby3Qu0f+7UsO0KED/D3z/x5rdslaQI=; b=AYis6Cx1jqGydAxdZc3yfg4/8JJhYm6EHPLg8arEXZ4YbLr8iTCye0Kl822P8NQwtcZLpeI7
+ n36kUxXUVNokd2VKz1TzMt3u7VlBLGRZwk9owsDaZc4uVmytbfMIJhG35+aIN0P4UvNnV7xx
+ GWlV8OHjRJshQolTorRKdYmBklM=
+X-Mailgun-Sending-Ip: 161.38.193.130
+X-Mailgun-Sid: WyI0MDliMCIsInNlaWZfZWRkaW5lMTAwMEB5YWhvby5mciIsImJiNmU1ZSJd
+List-Unsubscribe: <mailto:u+mq6weyrwmu2wkjttnftw45lqknxxk4tdmu6skn2ceuzde53fmistemrfgnasw5dsovsskn2eezut2mrqgizdcmrqg4zdgmbwgqyc4nrqmzrdezrug5qwkojugm3gmnbfgqyg2ltgojswkzdpnuxhi3zgna6wcmddgzstozbsgq3tqyjummytaojyha4wgojthezdomrrgnrwknbgoi6xgzljmzpwkzdenfxgkmjqgaycknbqpfqwq33pfzthejtuhvxw4ytpmfzgi2lom4thipkxmvwgg33nmuthipkxmvwgg33nmuvxozlc@m.freedom.to>
+Received: from <unknown> (<unknown> []) by 15e1d1c68cc3 with HTTP id
+ 63911c80d55a13ccf8bbcafa; Wed, 07 Dec 2022 23:06:40 GMT
+Sender: support=freedom.to@m.freedom.to
+Date: Wed, 07 Dec 2022 23:06:40 +0000
+Mime-Version: 1.0
+Subject: Welcome to Freedom!
+From: Freedom Support <support@freedom.to>
+To: seif_eddine1000@yahoo.fr
+X-Mailgun-Tag: onboarding
+X-Mailgun-Tag: Welcome
+X-Mailgun-Tag: Welcome web
+X-Mailgun-Variables: {"signupSource":{"web":true}}
+X-Mailgun-Template-Name: welcome
+Message-Id: <20221207230640.60fb2f47ae9436f4@m.freedom.to>
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Length: 50379
+
